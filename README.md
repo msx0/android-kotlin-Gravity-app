@@ -1,4 +1,4 @@
-# <img alt="App image" src="screenshots/ic_gravity.png" width="5%"> Gravity app
+
 
 [![License](https://img.shields.io/github/license/ashish7zeph/android-kotlin-Gravity-app.svg?style=for-the-badge)](https://github.com/ashish7zeph/android-kotlin-Gravity-app/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/ashish7zeph/android-kotlin-Gravity-app.svg?style=for-the-badge)](https://github.com/ashish7zeph/android-kotlin-Gravity-app/graphs/contributors)
